@@ -9,9 +9,6 @@ This is a **Netflix homepage clone** created as part of my front-end development
 - HTML5
 - CSS3
 
-## 📸 Preview
-[Add a screenshot here]
-
 ## 🚀 Live Link
 [https://mdafjal-developer.github.io/Netflix-Clone-Website/](https://mdafjal-developer.github.io/Netflix-Clone-Website/)
 
